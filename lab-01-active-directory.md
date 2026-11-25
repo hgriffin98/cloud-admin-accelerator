@@ -1,6 +1,6 @@
 # Lab 1: Active Directory Domain Services & Group Policy
 
-**Video Walkthrough:** [Paste your Loom link here]
+**Video Walkthrough:** [[Paste your Loom link here]](https://www.loom.com/share/46027283112a4b6daf93f424bad8bf11)
 
 ## Objective
 Deploy a Windows Server virtual machine in Microsoft Azure, promote it to an Active Directory Domain Controller, and enforce a Group Policy restriction on a specific Organizational Unit.
