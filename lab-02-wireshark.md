@@ -1,6 +1,6 @@
 # Lab 02: Network Traffic Capture & Protocol Analysis (Wireshark)
 
-**Loom Walkthrough:** [Paste your Loom video link here after recording]
+**Loom Walkthrough:** [[Paste your Loom video link here after recording]](https://www.loom.com/share/05b6c65d924840c6a4371c63bdfd72eb)
 
 ## Objective
 Capture live network traffic on a macOS workstation using Wireshark, isolate DNS, TCP, and TLS protocols using display filters, and verify how domain resolution and encrypted sessions appear at the packet level.
